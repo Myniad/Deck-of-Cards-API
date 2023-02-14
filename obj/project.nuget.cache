@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpjCw1+QheTikc9NBaE0GbI6YCL0M3oBVwo2VANy65VAtfaE3pFCxrat/OfWSs3v6n2+AOS137HcPkt8SJMczQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Percy\\Desktop\\Deliverables\\Deck of Cards API\\Deck of Cards API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Percy\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\appsettings.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\Deck of Cards API.staticwebassets.runtime.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\Deck of Cards API.exe
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\Deck of Cards API.deps.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\Deck of Cards API.runtimeconfig.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\Deck of Cards API.dll
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\Deck of Cards API.pdb
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.csproj.AssemblyReference.cache
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.AssemblyInfoInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.AssemblyInfo.cs
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.csproj.CoreCompileInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.RazorAssemblyInfo.cache
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.RazorAssemblyInfo.cs
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.Deck of Cards API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.build.Deck of Cards API.props
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Deck of Cards API.props
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Deck of Cards API.props
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\scopedcss\bundle\Deck of Cards API.styles.css
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\scopedcss\projectbundle\Deck of Cards API.bundle.scp.css
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.csproj.CopyComplete
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.dll
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\refint\Deck of Cards API.dll
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.pdb
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\Deck of Cards API.genruntimeconfig.cache
+C:\Users\Percy\Desktop\Deliverables\Deck of Cards API\obj\Debug\net6.0\ref\Deck of Cards API.dll
